@@ -1,3 +1,3 @@
 # SFMLNEW
 
-Simple SFML program in C++.
+Simple SFML program.
